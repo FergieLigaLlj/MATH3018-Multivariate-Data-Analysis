@@ -1,8 +1,8 @@
-**MATH3018-Multivariate-Data-Analysis**
-*University of Macau Mathematical course_Professor Zhixiang Zhang*
-**Syllabus**
+**MATH3018-Multivariate-Data-Analysis**<br>
+*University of Macau Mathematical course_Professor Zhixiang Zhang*<br>
+**Syllabus**<br>
 Course Outline: This course is a basic course on multivariate statistical analysis.<br>
- We will start with a review on linear algebra and multivariate distributions. Then we<br>
+ We will start with a review of linear algebra and multivariate distributions. Then we<br>
  will cover inference on mean vectors, multivariate analysis of variance, principal com<br>
 ponents, factor analysis, classification/discrimination, and cluster analysis. Canonical<br>
  correlation analysis will be included if time permits.<br>
